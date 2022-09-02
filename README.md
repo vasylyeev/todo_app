@@ -1,16 +1,24 @@
-# todo
+# Todo App
 
-A new Flutter project.
+It's a simple app where you can add your tasks, give it some title, description and some checkboxes, so you can see your progress in each step.
 
-## Getting Started
+## Story
 
-This project is a starting point for a Flutter application.
+This app is build as part of my personal Flutter Developer portfolio. This app shows my skills in:
 
-A few resources to get you started if this is your first Flutter project:
+ 1. Usage of different built-in stateless/statefull widgets and making my own custom responsible widgets with fields;
+ 2. Internal database management with SQFlite;
+ 3. Integration model into different widgets.
+ 
+## Use cases
+ 
+Using this app you can:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ 1. Add your tasks, give them titles, descriptions and checkboxes;
+ 2. Check your progress, that is calculated based on checked checkboxes;
+ 3. Delete your tasks.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### That's it for now!
+
+But I'll definitively going to add a lot more features.
+Thanks for reading!
