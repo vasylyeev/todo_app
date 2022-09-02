@@ -18,6 +18,8 @@ Using this app you can:
  2. Check your progress, that is calculated based on checked checkboxes;
  3. Delete your tasks.
 
+![App UI](readme_src/App_UI.png)
+
 ### That's it for now!
 
 But I'll definitively going to add a lot more features.
